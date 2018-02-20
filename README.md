@@ -9,11 +9,6 @@ If the cards match, they will remain open. If they do not match, they will flip 
 Once you get all 8 matches, the game is over and you will receive a star rating based on how well you did.
 
 
-matching pair
-
- 
-
-non-matching pair
 
  
 
