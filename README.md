@@ -1,4 +1,4 @@
-How to Play:
+# How to Play:
 
 There are 16 cards on a board and 8 matching pairs. Click on the cards to reveal icons and see if you got a match!
 
